@@ -14,7 +14,7 @@
 
 ### Web Servers
 
-* [Nginx](https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/)
+* [Nginx](https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/); [Ru](http://habrahabr.ru/company/latera/blog/273283/)
 * [H2O](http://h2o.ai/blog/2014/03/h2o-architecture/)
 
 ### Security
